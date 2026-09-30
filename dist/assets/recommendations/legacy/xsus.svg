@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 240 240" role="img" aria-label="XSUS">
+  <defs><linearGradient id="x" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#6cf2ff"/><stop offset=".5" stop-color="#6375ff"/><stop offset="1" stop-color="#bc62ff"/></linearGradient></defs>
+  <rect width="240" height="240" rx="52" fill="#0b0e26"/>
+  <ellipse cx="120" cy="108" rx="88" ry="43" fill="none" stroke="#384474" stroke-width="3" transform="rotate(-20 120 108)"/>
+  <ellipse cx="120" cy="108" rx="88" ry="43" fill="none" stroke="#283763" stroke-width="3" transform="rotate(25 120 108)"/>
+  <path d="m72 54 48 49 48-49 23 23-48 49 48 49-23 23-48-49-48 49-23-23 48-49-48-49z" fill="url(#x)"/>
+  <circle cx="120" cy="126" r="8" fill="#fff"/>
+  <text x="120" y="220" text-anchor="middle" fill="#fff" font-family="Arial,sans-serif" font-size="24" font-weight="800">XSUS</text>
+</svg>

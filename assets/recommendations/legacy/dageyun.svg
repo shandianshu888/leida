@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 240 240" role="img" aria-label="大哥云">
+  <defs><linearGradient id="d" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#ffd86a"/><stop offset="1" stop-color="#c98a16"/></linearGradient></defs>
+  <rect width="240" height="240" rx="52" fill="#071a32"/>
+  <path d="m64 78 25 17 31-38 31 38 25-17-10 57H74z" fill="url(#d)" stroke="#ffeaa6" stroke-width="3"/>
+  <circle cx="64" cy="76" r="8" fill="#ffe58f"/><circle cx="120" cy="54" r="8" fill="#ffe58f"/><circle cx="176" cy="76" r="8" fill="#ffe58f"/>
+  <path d="M67 165c4-24 25-40 49-37 11-20 44-15 49 8 20 1 31 13 31 29 0 18-14 30-34 30H74c-22 0-35-12-35-29 0-15 11-27 28-29" fill="#1d4e7c" stroke="#72c8ff" stroke-width="4"/>
+  <text x="120" y="181" text-anchor="middle" fill="#fff" font-family="Microsoft YaHei,Arial,sans-serif" font-size="25" font-weight="900">大哥云</text>
+</svg>

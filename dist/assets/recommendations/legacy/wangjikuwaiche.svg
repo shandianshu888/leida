@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 240 240" role="img" aria-label="网际快车">
+  <defs><linearGradient id="w" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#ffb21a"/><stop offset="1" stop-color="#ec3e28"/></linearGradient></defs>
+  <rect width="240" height="240" rx="52" fill="#101d29"/>
+  <path d="M40 114c20-48 68-74 116-59 18 5 33 15 45 29" fill="none" stroke="#3d6b88" stroke-width="9" stroke-linecap="round"/>
+  <path d="M45 135h125l25 19-18 19H77l-30-16z" fill="url(#w)"/>
+  <path d="M76 117h77l22 18H58z" fill="#f6f8fa"/>
+  <circle cx="84" cy="174" r="14" fill="#07131d" stroke="#fff" stroke-width="5"/><circle cx="160" cy="174" r="14" fill="#07131d" stroke="#fff" stroke-width="5"/>
+  <path d="m178 72 25 12-26 7" fill="none" stroke="#ffb21a" stroke-width="6" stroke-linecap="round" stroke-linejoin="round"/>
+  <text x="120" y="218" text-anchor="middle" fill="#fff" font-family="Microsoft YaHei,Arial,sans-serif" font-size="22" font-weight="800">网际快车</text>
+</svg>

@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 240 240" role="img" aria-label="Flybit">
+  <defs><linearGradient id="g" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#28c7ee"/><stop offset="1" stop-color="#5344d8"/></linearGradient></defs>
+  <rect width="240" height="240" rx="52" fill="#071827"/>
+  <circle cx="120" cy="110" r="74" fill="none" stroke="#1b4460" stroke-width="3"/>
+  <path d="M45 124 190 64l-50 52 42 17-22 15-54-12-28 31-13-9 22-34z" fill="url(#g)"/>
+  <path d="M73 181h94" stroke="#40d7ef" stroke-width="5" stroke-linecap="round"/>
+  <text x="120" y="211" text-anchor="middle" fill="#fff" font-family="Arial,sans-serif" font-size="23" font-weight="800">FLYBIT</text>
+</svg>
