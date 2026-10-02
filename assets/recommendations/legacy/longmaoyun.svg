@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 240 240" role="img" aria-label="龙猫云">
+  <defs>
+    <linearGradient id="longmaoGrad" x1="0" y1="0" x2="1" y2="1">
+      <stop stop-color="#48dbfb"/>
+      <stop offset="1" stop-color="#0abde3"/>
+    </linearGradient>
+  </defs>
+  <rect width="240" height="240" rx="52" fill="#0b1b24"/>
+  <circle cx="120" cy="110" r="72" fill="none" stroke="#173647" stroke-width="4"/>
+  <!-- Totoro Ears & Oval Body -->
+  <path d="M85 85 L95 50 L110 75 L130 75 L145 50 L155 85 C175 105 170 145 145 160 C130 168 110 168 95 160 C70 145 65 105 85 85 Z" fill="url(#longmaoGrad)"/>
+  <ellipse cx="120" cy="128" rx="28" ry="22" fill="#ffffff" opacity="0.9"/>
+  <path d="M110 120 L115 125 L120 120 M120 120 L125 125 L130 120" fill="none" stroke="#0abde3" stroke-width="3" stroke-linecap="round"/>
+  <circle cx="102" cy="100" r="5" fill="#fff"/>
+  <circle cx="138" cy="100" r="5" fill="#fff"/>
+  <circle cx="102" cy="100" r="2" fill="#0b1b24"/>
+  <circle cx="138" cy="100" r="2" fill="#0b1b24"/>
+  <text x="120" y="210" text-anchor="middle" fill="#fff" font-family="Microsoft YaHei, Arial, sans-serif" font-size="22" font-weight="900" letter-spacing="1">龙猫云</text>
+</svg>

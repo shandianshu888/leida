@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 240 240" role="img" aria-label="光速云">
+  <defs>
+    <linearGradient id="guangsuGrad" x1="0" y1="0" x2="1" y2="1">
+      <stop stop-color="#00d2d3"/>
+      <stop offset="1" stop-color="#2e86de"/>
+    </linearGradient>
+  </defs>
+  <rect width="240" height="240" rx="52" fill="#071927"/>
+  <circle cx="120" cy="110" r="72" fill="none" stroke="#133048" stroke-width="4"/>
+  <!-- Lightning Beam -->
+  <path d="M135 48 L80 120 L115 120 L95 172 L160 100 L125 100 Z" fill="url(#guangsuGrad)"/>
+  <text x="120" y="210" text-anchor="middle" fill="#fff" font-family="Microsoft YaHei, Arial, sans-serif" font-size="22" font-weight="900" letter-spacing="1">光速云</text>
+</svg>

@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 240 240" role="img" aria-label="星岛梦">
+  <defs>
+    <linearGradient id="starGrad" x1="0" y1="0" x2="1" y2="1">
+      <stop stop-color="#a55eea"/>
+      <stop offset="1" stop-color="#8854d0"/>
+    </linearGradient>
+  </defs>
+  <rect width="240" height="240" rx="52" fill="#140b24"/>
+  <circle cx="120" cy="110" r="72" fill="none" stroke="#2e194e" stroke-width="4"/>
+  <!-- Star & Crescent Island -->
+  <path d="M120 50 L128 80 L160 80 L134 100 L144 130 L120 110 L96 130 L106 100 L80 80 L112 80 Z" fill="url(#starGrad)"/>
+  <path d="M65 145 C90 165 150 165 175 145 C150 155 90 155 65 145 Z" fill="#38ada9"/>
+  <text x="120" y="210" text-anchor="middle" fill="#fff" font-family="Microsoft YaHei, Arial, sans-serif" font-size="22" font-weight="900" letter-spacing="1">星岛梦</text>
+</svg>

@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 240 240" role="img" aria-label="泡芙云">
+  <defs>
+    <linearGradient id="paofuGrad" x1="0" y1="0" x2="1" y2="1">
+      <stop stop-color="#ff9ff3"/>
+      <stop offset="1" stop-color="#f368e0"/>
+    </linearGradient>
+  </defs>
+  <rect width="240" height="240" rx="52" fill="#1d0d1b"/>
+  <circle cx="120" cy="110" r="72" fill="none" stroke="#3d1b38" stroke-width="4"/>
+  <!-- Puff Puff Cloud -->
+  <path d="M75 125 C60 120 60 95 80 90 C85 70 110 65 125 80 C140 68 165 75 168 92 C185 98 185 125 168 135 C155 148 85 148 75 125 Z" fill="url(#paofuGrad)"/>
+  <circle cx="100" cy="108" r="4" fill="#fff"/>
+  <circle cx="140" cy="108" r="4" fill="#fff"/>
+  <path d="M115 118 Q120 123 125 118" fill="none" stroke="#fff" stroke-width="3" stroke-linecap="round"/>
+  <text x="120" y="210" text-anchor="middle" fill="#fff" font-family="Microsoft YaHei, Arial, sans-serif" font-size="22" font-weight="900" letter-spacing="1">泡芙云</text>
+</svg>

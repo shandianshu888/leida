@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 240 240" role="img" aria-label="二猫云">
+  <defs>
+    <linearGradient id="ermaoGrad" x1="0" y1="0" x2="1" y2="1">
+      <stop stop-color="#ff6b81"/>
+      <stop offset="1" stop-color="#ff4757"/>
+    </linearGradient>
+  </defs>
+  <rect width="240" height="240" rx="52" fill="#120c18"/>
+  <circle cx="120" cy="115" r="72" fill="none" stroke="#2d1a38" stroke-width="4"/>
+  <!-- Cat Ears & Face Silhouette -->
+  <path d="M75 95 L95 55 L118 85 L142 55 L165 95 C175 115 170 145 145 160 C130 170 110 170 95 160 C70 145 65 115 75 95 Z" fill="url(#ermaoGrad)"/>
+  <circle cx="102" cy="118" r="7" fill="#120c18"/>
+  <circle cx="138" cy="118" r="7" fill="#120c18"/>
+  <path d="M112 132 Q120 138 128 132" fill="none" stroke="#120c18" stroke-width="3" stroke-linecap="round"/>
+  <text x="120" y="210" text-anchor="middle" fill="#fff" font-family="Microsoft YaHei, Arial, sans-serif" font-size="22" font-weight="900" letter-spacing="1">二猫云</text>
+</svg>

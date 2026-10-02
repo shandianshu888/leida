@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 240 240" role="img" aria-label="青云梯">
+  <defs>
+    <linearGradient id="qingyunGrad" x1="0" y1="0" x2="1" y2="1">
+      <stop stop-color="#1dd1a1"/>
+      <stop offset="1" stop-color="#10ac84"/>
+    </linearGradient>
+  </defs>
+  <rect width="240" height="240" rx="52" fill="#091b16"/>
+  <circle cx="120" cy="110" r="72" fill="none" stroke="#163f34" stroke-width="4"/>
+  <!-- Ladder & Cloud -->
+  <path d="M70 135 C70 115 85 100 105 100 C112 90 128 85 142 95 C158 95 168 108 168 122 C175 128 175 140 165 150 Z" fill="url(#qingyunGrad)" opacity="0.85"/>
+  <path d="M100 155 L130 55 M115 155 L145 55 M108 135 L123 135 M113 115 L128 115 M118 95 L133 95 M123 75 L138 75" stroke="#ffffff" stroke-width="4" stroke-linecap="round"/>
+  <text x="120" y="210" text-anchor="middle" fill="#fff" font-family="Microsoft YaHei, Arial, sans-serif" font-size="22" font-weight="900" letter-spacing="1">青云梯</text>
+</svg>
