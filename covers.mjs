@@ -32,7 +32,15 @@ const visuals={
 'browser-proxy-guide':'<rect x="120" y="85" width="565" height="435" rx="28" fill="none" stroke="currentColor" stroke-width="20"/><path d="M120 180 H685" stroke="currentColor" stroke-width="18"/><circle cx="170" cy="135" r="13" fill="currentColor"/><circle cx="215" cy="135" r="13" fill="currentColor"/><circle cx="260" cy="135" r="13" fill="currentColor"/><path d="M230 335 H560 M510 280 L565 335 L510 390" fill="none" stroke="currentColor" stroke-width="20"/>',
 'multi-device-setup':base.laptop+'<rect x="570" y="155" width="140" height="300" rx="24" fill="none" stroke="currentColor" stroke-width="18"/><path d="M190 90 Q445 5 670 125 M190 90 L230 140 M190 90 L250 65" fill="none" stroke="currentColor" stroke-width="17" stroke-linecap="round"/><circle cx="455" cy="75" r="18" fill="currentColor"/>',
 'vpn-legal-compliance':base.shield+'<path d="M560 135 V465 M475 205 H650 M510 205 L455 335 H565 Z M615 205 L560 335 H670 Z" fill="none" stroke="currentColor" stroke-width="17" stroke-linejoin="round"/>',
-'vpn-glossary':'<path d="M155 100 H615 Q660 100 660 150 V490 Q660 540 615 540 H155 Z" fill="none" stroke="currentColor" stroke-width="20"/><path d="M245 100 V540 M315 210 H570 M315 295 H530 M315 380 H580 M315 465 H505" stroke="currentColor" stroke-width="17" stroke-linecap="round"/><path d="M155 100 Q220 150 245 205 Q220 260 155 305 Q220 350 245 405 Q220 475 155 540" fill="none" stroke="currentColor" stroke-width="15"/>'};
+'vpn-glossary':'<path d="M155 100 H615 Q660 100 660 150 V490 Q660 540 615 540 H155 Z" fill="none" stroke="currentColor" stroke-width="20"/><path d="M245 100 V540 M315 210 H570 M315 295 H530 M315 380 H580 M315 465 H505" stroke="currentColor" stroke-width="17" stroke-linecap="round"/><path d="M155 100 Q220 150 245 205 Q220 260 155 305 Q220 350 245 405 Q220 475 155 540" fill="none" stroke="currentColor" stroke-width="15"/>',
+'yiyuan-jichang-guide':base.globe+'<text x="560" y="260" font-family="Arial,sans-serif" font-size="90" font-weight="900" fill="currentColor">¥1</text>',
+'cheap-jichang-selection':base.globe+'<rect x="520" y="190" width="180" height="110" rx="20" fill="none" stroke="currentColor" stroke-width="18"/><path d="M560 245 H660" stroke="currentColor" stroke-width="16"/>',
+'free-jichang-list-risk':base.shield+'<circle cx="385" cy="315" r="45" fill="none" stroke="currentColor" stroke-width="18"/>',
+'sing-box-guide':base.laptop+'<rect x="250" y="200" width="140" height="140" rx="20" fill="none" stroke="currentColor" stroke-width="18"/>',
+'iplc-iepl-explained':base.globe+'<path d="M200 315 H560" stroke="currentColor" stroke-width="20" stroke-dasharray="12 12"/>',
+'shadowrocket-node-timeout-fix':base.phone+'<path d="M570 230 L660 320 M660 230 L570 320" stroke="currentColor" stroke-width="20" stroke-linecap="round"/>',
+'mobile-proxy-battery-background':base.phone+'<rect x="560" y="240" width="100" height="180" rx="16" fill="none" stroke="currentColor" stroke-width="18"/>',
+'streaming-chatgpt-unlock-check':base.speed+'<polygon points="340,240 480,315 340,390" fill="currentColor"/>'};
 
 export function generateCovers({topics,categories,destinations}){
   for(const article of topics){
